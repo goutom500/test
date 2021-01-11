@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full-website{
+    width: 1024px;
+    margin: 10px auto;
+    text-align: center;
+    color: #fff;
+}
+.menu{
+    background-color: #34495e;
+}
+.banner{
+    background-image: url(./img/banner-img.jpg);
+    padding: 150px 20px;
+}
+.btn{
+    background-color:#ff6348;
+    padding: 8px 10px;
+    display: inline-block;
+    margin-top: 20px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.container{
+    background-color:#0d6efd;
+}
+.footer{
+    background-color: #198754;
+}
+.op{
+    padding: 30px 0;
+}
+.opx{
+    padding: 60px 20px;
+}
+.opy{
+    padding: 20px;
+}
+.p-c{
+    color: #000;
+}
